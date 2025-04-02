@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="score_format">Score: %d</string>
+    <string name="tile_description">Tile number %d</string>
+    <string name="your_turn_message">Your turn! Pick the correct tiles!</string>
+    <string name="time_up_message">Times up!</string>
+    <string name="wrong_tile_message">Wrong tile!</string>
+    <string name="correct_message">Correct! Next round...</string>
+    <string name="final_score_format">Final Score: %d</string>
+    <string name="game_over_title">Game Over</string>
+    <string name="play_again_prompt">Play again?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>
