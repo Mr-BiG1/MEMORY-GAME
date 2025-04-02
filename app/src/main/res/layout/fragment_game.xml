@@ -7,6 +7,17 @@
     android:padding="16dp"
     android:gravity="center_horizontal">
 
+    <!-- Countdown Timer Text -->
+    <TextView
+        android:id="@+id/tv_timer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Time Left: 5s"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- Score Text -->
     <TextView
         android:id="@+id/tv_score"
         android:layout_width="wrap_content"
@@ -16,6 +27,7 @@
         android:textStyle="bold"
         android:layout_marginBottom="12dp"/>
 
+    <!-- Grid Layout -->
     <GridLayout
         android:id="@+id/grid_layout"
         android:layout_width="match_parent"
